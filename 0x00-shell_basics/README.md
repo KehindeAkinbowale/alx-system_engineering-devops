@@ -1,1 +1,1 @@
-Display current directory contents with user and group IDs
+Create a new directory inside the /tmp directory
