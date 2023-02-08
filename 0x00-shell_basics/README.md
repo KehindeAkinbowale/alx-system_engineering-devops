@@ -1,1 +1,1 @@
-symbolic link to /bin/ls
+Copy all the HTML files
