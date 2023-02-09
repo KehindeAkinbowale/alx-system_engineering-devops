@@ -1,1 +1,1 @@
-Add execute permission to owner and group and read only to other users
+Adding execution to all users
