@@ -1,1 +1,1 @@
-Display all lines starting with a letter
+Replace all characters
