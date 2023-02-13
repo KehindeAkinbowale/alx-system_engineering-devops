@@ -1,1 +1,1 @@
-finds all empty files and directories in the current directory
+lists all the files with a .gif extension
