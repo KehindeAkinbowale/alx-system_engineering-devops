@@ -1,1 +1,1 @@
-displays the 10 newest files in the current directory
+prints only words that appear exactly once
