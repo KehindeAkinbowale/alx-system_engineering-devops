@@ -1,1 +1,1 @@
-Addition of enviromental variables
+result of POWER divided by DIVIDE
