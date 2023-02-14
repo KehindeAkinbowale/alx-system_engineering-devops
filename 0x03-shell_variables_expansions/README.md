@@ -1,1 +1,1 @@
-Creating global variables
+Addition of enviromental variables
