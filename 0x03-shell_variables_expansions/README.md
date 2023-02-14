@@ -1,1 +1,1 @@
-List enviroment variables
+Local and enviromental Variables
