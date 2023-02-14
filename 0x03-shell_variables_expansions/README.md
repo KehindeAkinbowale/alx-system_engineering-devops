@@ -1,1 +1,1 @@
-result of POWER divided by DIVIDE
+result of BREATH to the power LOVE
