@@ -1,1 +1,1 @@
-prints hello user
+counts the number of directories
