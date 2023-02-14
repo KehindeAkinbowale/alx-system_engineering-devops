@@ -1,1 +1,1 @@
-Decimal to Hexadecimal
+encodes and decodes text using the rot13 encryption
